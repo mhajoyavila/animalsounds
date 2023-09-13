@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: #e8cedb;
+   }
+   h1 {
+    font-size: 50px;
+    color: #4a3a3f;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #614004;
+   }
+   footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+   }
+
+   .cat {
+    background-image: url("images/cat.jpeg");
+   }
+   .doggy {
+    background-image: url("images/doggy.jpg");
+   }
+   .giraffe {
+    background-image: url("images/giraffe.jpg");
+   }
+   .piggy {
+    background-image: url("images/piggy.jpg");
+   }
+   .animal {
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-color: white;
+    outline: none;
+    border: 20px solid #564848;
+    border-radius: 25px;
+    font-size: 5rem;
+    font-family: 'Roboto', cursive;
+    font-weight: 900;
+    line-height: 5;
+    color: #73493d;
+    text-shadow: 3px 0 #e0e0dc;
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    margin: 15px;
+    text-align: center;
+   }
