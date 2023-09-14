@@ -37,19 +37,19 @@ for (var i = 0; i <numberOfAnimalButtons; i++) {
 
         switch (buttons) {
             case "cat":
-                var cat = new Audio ("music/cat.mp3")
+                var cat = new Audio ("music/cat.mp3");
                 cat.play();
                 break;
             case "doggy":
-                var doggy = new Audio ("music/doggy.mp3")
+                var doggy = new Audio ("music/doggy.mp3");
                 doggy.play();
                 break;
             case "giraffe":
-                var giraffe = new Audio ("music/giraffe.mp3")
+                var giraffe = new Audio ("music/giraffe.mp3");
                 giraffe.play();
                 break;
             case "piggy":
-                var piggy = new Audio ("music/piggy.mp3")
+                var piggy = new Audio ("music/piggy.mp3");
                 piggy.play();
                 break;
             default:
