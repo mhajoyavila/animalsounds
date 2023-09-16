@@ -13,16 +13,16 @@ body {
     font-family: sans-serif;
    }
 
-   .cat {
+   .c {
     background-image: url("images/cat.jpeg");
    }
-   .doggy {
+   .d {
     background-image: url("images/doggy.jpg");
    }
-   .giraffe {
+   .g {
     background-image: url("images/giraffe.jpg");
    }
-   .piggy {
+   .p {
     background-image: url("images/piggy.jpg");
    }
    .animal {
@@ -45,3 +45,7 @@ body {
     margin: 15px;
     text-align: center;
    }
+   .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
